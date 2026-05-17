@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Akshara Deepa Tutor</string>
+    <string name="daily_goal_channel">Daily Learning Goal</string>
+    <string name="daily_goal_title">Time to learn!</string>
+    <string name="daily_goal_text">Complete at least one topic today on your Mission Map.</string>
+</resources>
